@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TWolbert/portfolio/static/css/main.ef0d8f11.css",
-    "main.js": "/TWolbert/portfolio/static/js/main.edfb3e19.js",
+    "main.js": "/TWolbert/portfolio/static/js/main.dd903647.js",
     "static/js/787.ad15757c.chunk.js": "/TWolbert/portfolio/static/js/787.ad15757c.chunk.js",
     "static/media/mk8logo.png": "/TWolbert/portfolio/static/media/mk8logo.d48d5f49b3a3554e690f.png",
     "static/media/bg.jpg": "/TWolbert/portfolio/static/media/bg.ddbad653ea6f1dc4cf81.jpg",
@@ -15,11 +15,11 @@
     "static/media/youtube.webp": "/TWolbert/portfolio/static/media/youtube.a8747de94e6756e69e69.webp",
     "index.html": "/TWolbert/portfolio/index.html",
     "main.ef0d8f11.css.map": "/TWolbert/portfolio/static/css/main.ef0d8f11.css.map",
-    "main.edfb3e19.js.map": "/TWolbert/portfolio/static/js/main.edfb3e19.js.map",
+    "main.dd903647.js.map": "/TWolbert/portfolio/static/js/main.dd903647.js.map",
     "787.ad15757c.chunk.js.map": "/TWolbert/portfolio/static/js/787.ad15757c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef0d8f11.css",
-    "static/js/main.edfb3e19.js"
+    "static/js/main.dd903647.js"
   ]
 }
