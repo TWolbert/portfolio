@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/TWolbert/portfolio/static/css/main.ef0d8f11.css",
-    "main.js": "/TWolbert/portfolio/static/js/main.edfb3e19.js",
-    "static/js/787.ad15757c.chunk.js": "/TWolbert/portfolio/static/js/787.ad15757c.chunk.js",
-    "static/media/mk8logo.png": "/TWolbert/portfolio/static/media/mk8logo.d48d5f49b3a3554e690f.png",
-    "static/media/bg.jpg": "/TWolbert/portfolio/static/media/bg.ddbad653ea6f1dc4cf81.jpg",
-    "static/media/favicon.ico": "/TWolbert/portfolio/static/media/favicon.1b1016531f5c0ba911dc.ico",
-    "static/media/bg3.jpg": "/TWolbert/portfolio/static/media/bg3.2436db45916fca221d5f.jpg",
-    "static/media/mclogo.png": "/TWolbert/portfolio/static/media/mclogo.c34947b43113dd368a13.png",
-    "static/media/npsharplogo.png": "/TWolbert/portfolio/static/media/npsharplogo.202bc91906f283965c3b.png",
-    "static/media/twitlogo.webp": "/TWolbert/portfolio/static/media/twitlogo.84a72906c113fe82d1d0.webp",
-    "static/media/icon.png": "/TWolbert/portfolio/static/media/icon.e8a1cb29dc38654dc489.png",
-    "static/media/discpfp.webp": "/TWolbert/portfolio/static/media/discpfp.9dbaddb8729888f2934a.webp",
-    "static/media/youtube.webp": "/TWolbert/portfolio/static/media/youtube.a8747de94e6756e69e69.webp",
-    "index.html": "/TWolbert/portfolio/index.html",
-    "main.ef0d8f11.css.map": "/TWolbert/portfolio/static/css/main.ef0d8f11.css.map",
-    "main.edfb3e19.js.map": "/TWolbert/portfolio/static/js/main.edfb3e19.js.map",
-    "787.ad15757c.chunk.js.map": "/TWolbert/portfolio/static/js/787.ad15757c.chunk.js.map"
+    "main.css": "/static/css/main.85b9e0c1.css",
+    "main.js": "/static/js/main.fd17e113.js",
+    "static/js/787.ad15757c.chunk.js": "/static/js/787.ad15757c.chunk.js",
+    "static/media/mk8logo.png": "/static/media/mk8logo.d48d5f49b3a3554e690f.png",
+    "static/media/bg.jpg": "/static/media/bg.ddbad653ea6f1dc4cf81.jpg",
+    "static/media/favicon.ico": "/static/media/favicon.1b1016531f5c0ba911dc.ico",
+    "static/media/bg3.jpg": "/static/media/bg3.2436db45916fca221d5f.jpg",
+    "static/media/mclogo.png": "/static/media/mclogo.c34947b43113dd368a13.png",
+    "static/media/npsharplogo.png": "/static/media/npsharplogo.202bc91906f283965c3b.png",
+    "static/media/twitlogo.webp": "/static/media/twitlogo.84a72906c113fe82d1d0.webp",
+    "static/media/icon.png": "/static/media/icon.e8a1cb29dc38654dc489.png",
+    "static/media/discpfp.webp": "/static/media/discpfp.9dbaddb8729888f2934a.webp",
+    "static/media/youtube.webp": "/static/media/youtube.a8747de94e6756e69e69.webp",
+    "index.html": "/index.html",
+    "main.85b9e0c1.css.map": "/static/css/main.85b9e0c1.css.map",
+    "main.fd17e113.js.map": "/static/js/main.fd17e113.js.map",
+    "787.ad15757c.chunk.js.map": "/static/js/787.ad15757c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef0d8f11.css",
-    "static/js/main.edfb3e19.js"
+    "static/css/main.85b9e0c1.css",
+    "static/js/main.fd17e113.js"
   ]
 }
